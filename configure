@@ -11,3 +11,4 @@ fi
 "$PYTHON_BIN_PATH" configure.py
 
 echo "Configuration finished"
+
